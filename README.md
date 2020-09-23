@@ -26,6 +26,6 @@ Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do 
 
 - **[#Day-01: Countdown dos 100 dias](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-001-Countdown/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-001-Countdown)**
 
-- **[#Day-01: Countdown dos 100 dias](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-IMC-calc/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-IMC-calc)**
+- **[#Day-02: Calculadora de IMC](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-IMC-calc/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-IMC-calc)**
 
 **(documentação em desenvolvimento)**

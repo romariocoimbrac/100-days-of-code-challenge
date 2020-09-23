@@ -1,4 +1,5 @@
 # 100-days-of-code-challenge
+
 Repositório responsável por tratar do Desafio do #100DaysOfCode inspirado no desafio criado pelo Desenvolvedor Alexander Kallaway
 
 # Desafio #100DaysOfCode Romário Coimbra
@@ -10,7 +11,7 @@ As regras já estão estabelecidas **[AQUI](https://github.com/kallaway/100-days
 
 No meu caso, não especifiquei ainda o que farei cada dia. A ideia é criar algo a partir do que estiver estudando no momento.
 
-## Recursos Utilizados durante o Desenvolvimento 
+## Recursos Utilizados durante o Desenvolvimento
 
 - **HTML**
 - **CSS**
@@ -19,8 +20,10 @@ No meu caso, não especifiquei ainda o que farei cada dia. A ideia é criar algo
 
 Minha intenção é de aprimorar cada vez mais os meus Skills em **JavaScript** e **PHP**.
 
-## Lista de Projetos Desenvolvidos 
+## Lista de Projetos Desenvolvidos
 
 Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do **#100DaysOfCode**
+
+- **[#Day-01: Countdown dos 100 dias](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-001-Countdown/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-001-Countdown)**
 
 **(documentação em desenvolvimento)**

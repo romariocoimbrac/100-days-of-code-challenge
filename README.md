@@ -1,2 +1,26 @@
 # 100-days-of-code-challenge
 Repositório responsável por tratar do Desafio do #100DaysOfCode inspirado no desafio criado pelo Desenvolvedor Alexander Kallaway
+
+# Desafio #100DaysOfCode Romário Coimbra
+
+Este repositório foi inspirado no desafio do #100DaysOfCode criado pelo Desenvolvedor **[Alexander Kallaway](https://twitter.com/ka11away)**.
+O foco deste desafio é que você programe pelo menos 1 hora por dia.
+A intenção é de ampliar meus conhecimentos através da prática diária, além de interagir com a comunidade que também participa deste desafio para troca de experiências e conhecimentos. :)
+As regras já estão estabelecidas **[AQUI](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/LEIAME.md)**
+
+No meu caso, não especifiquei ainda o que farei cada dia. A ideia é criar algo a partir do que estiver estudando no momento.
+
+## Recursos Utilizados durante o Desenvolvimento 
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PHP**
+
+Minha intenção é de aprimorar cada vez mais os meus Skills em **JavaScript** e **PHP**.
+
+## Lista de Projetos Desenvolvidos 
+
+Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do **#100DaysOfCode**
+
+**(documentação em desenvolvimento)**

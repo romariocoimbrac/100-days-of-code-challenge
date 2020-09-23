@@ -1,0 +1,58 @@
+html {
+  width: 100%;
+}
+.main-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+}
+.calculator {
+  width: 35%;
+  border: 1px solid #e5e5e5;
+  background-color: #f1f2f3;
+  padding: 25px 10px;
+  vertical-align: center;
+}
+.info {
+  width: 55%;
+  padding: 25px 10px;
+}
+.info p {
+  padding: 15px;
+}
+label,
+input {
+  margin: 3px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.calcular {
+  margin: 5px 0 10px 0;
+  padding: 5px 15px;
+}
+.guia {
+  margin: 0 auto;
+}
+.guia th,
+.guia td {
+  margin: 0 1px;
+  border: 1px solid #555;
+}
+
+@media (max-width: 550px) {
+  .main-container {
+    flex-direction: column;
+    vertical-align: auto;
+  }
+  .calculator,
+  .info {
+    width: 100%;
+    min-width: 330px;
+    align-self: center;
+  }
+}

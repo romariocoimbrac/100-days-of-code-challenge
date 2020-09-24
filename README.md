@@ -28,4 +28,6 @@ Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do 
 
 - **[#Day-02: Calculadora de IMC](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-IMC-calc/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-IMC-calc)**
 
+- **[#Day-03: Changing CSS using JavaScript](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-003-js-change-css/)** - **[Código Desenvolvido](https://github.com/romariocoimbrac/100-days-of-code-challenge/src/day-003-js-change-css)**
+
 **(documentação em desenvolvimento)**

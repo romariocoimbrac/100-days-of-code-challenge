@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#03 #100DaysOfCode</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Changing CSS using JavaScript</h1>
+    <div class="container">
+        <p id="text">In this challenge, I learned how to manipulate CSS properties using JavaScript.</p>
+    </div>
+
+    <div class="controller">
+        <div class="font-style">
+            <p for="style">Font-style:</p>
+            <select id="style" onchange="selectStyle()">
+                <option value="">Default</option>
+                <option value="arial">Arial</option>
+                <option value="cambria">Cambria</option>
+                <option value="monospace">Monospace</option>
+                <option value="georgia">Georgia</option>
+            </select>
+        </div>
+
+        <div class="font-size">
+            <p>Font Size: <span id="size"></span></p>
+            <input type="range" min="10" max="30" value="20" id="range-slider">
+        </div>
+
+        <div class="font-color">
+            <p>Font Color:</p>
+            <div class="colors">
+                <button id="black" value="black"></button>
+                <button id="red" value="red"></button>
+                <button id="green" value="green"></button>
+                <button id="blue" value="blue"></button>
+            </div>
+        </div>
+
+        <div class="font-weight">
+            <p>Font weight:</p>
+            <div class="weight">
+                <button id="normal" value="normal">Normal</button>
+                <button id="light" value="lighter">Light</button>
+                <button id="bold" value="bold">Bold</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

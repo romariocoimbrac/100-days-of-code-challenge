@@ -28,6 +28,6 @@ Below is a list of projects I am developing during the **#100DaysOfCode** Challe
 
 - **[#Day-02: BMI Calculator](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-bmi-calc/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-bmi-calc)**
 
-- **[#Day-01: 100 Days Countdown](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-001-countdown/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-001-countdown)**
+- **[#Day-01: 100 Days Countdown](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-001-countdown-clock/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-001-countdown-clock)**
 
 **(documentation under development)**

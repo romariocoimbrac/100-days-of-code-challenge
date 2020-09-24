@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -12,29 +12,29 @@
 <body>
     <div class="main-container">
         <section class="calculator">
-            <h1>Calculadora de IMC</h1>
+            <h1>BMI Calculator</h1>
             <div class="input">
-                <label for="height">Altura(cm): <br></label>
+                <label for="height">height(cm): <br></label>
                 <input id="height" type="number">
-                <label for="weight">Peso(kg): <br></label>
+                <label for="weight">weight(kg): <br></label>
                 <input id="weight" type="number">
             </div>
-            <button id="btn" class="calcular">Calcular</button>
+            <button id="btn" class="calc">Calculate</button>
             <div class="output">
-                <label for="resultIMC">IMC: <br></label>
+                <label for="resultIMC">BMI: <br></label>
                 <input id="resultIMC" type="number" readonly>
             </div>
         </section>
 
         <section class="info">
-            <h2>O que é IMC?</h2>
-            <table class="guia">
-                <caption>Tabela IMC</caption>
+            <h2>What is BMI?</h2>
+            <table class="table">
+                <caption>BMI Table</caption>
                 <tr>
-                    <th>Baixo Peso</th>
-                    <th>Peso Ideal</th>
-                    <th>Sobrepeso</th>
-                    <th>Obesidade</th>
+                    <th>Thinness</th>
+                    <th>Normal</th>
+                    <th>Overweight</th>
+                    <th>Obese</th>
                 </tr>
                 <tr>
                     <td>18.5</td>
@@ -43,7 +43,8 @@
                     <td>30</td>
                 </tr>
             </table>
-            <p>Ainda que não diferencie a massa magra da massa gordurosa, o IMC é um teste rápido e prático que pode dar indícios sobre a saúde dos indivíduos.</p>
+            <p>
+                Although it does not differentiate between lean and fatty mass, BMI is a quick and practical test that can give indications about the health of individuals.</p>
         </section>
     </div>
 

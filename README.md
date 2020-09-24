@@ -24,9 +24,9 @@ My intention is to further improve my skills in **JavaScript** and **PHP**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
-- **[#Day-02: BMI Calculator](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-bmi-calc/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-bmi-calc)**
-
 - **[#Day-03: Changing CSS using JavaScript](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-003-js-change-css/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-003-js-change-css)**
+
+- **[#Day-02: BMI Calculator](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-002-bmi-calc/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-002-bmi-calc)**
 
 - **[#Day-01: 100 Days Countdown](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-001-countdown/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-001-countdown)**
 

@@ -1,0 +1,54 @@
+html,
+body {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  background-color: snow;
+  font-size: 1.2em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-container {
+  width: 60%;
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.timers {
+  display: flex;
+  margin-bottom: 10px;
+}
+.timers .timer {
+  padding: 20px;
+  width: 100px;
+}
+.timers .timer p {
+  margin: 10px 0;
+}
+
+.btns {
+  padding: 15px;
+}
+.btns .btn {
+  width: 60px;
+  height: 30px;
+}
+
+@media (max-width: 400px) {
+  .main-container {
+    width: 90%;
+  }
+  .timers {
+    display: flex;
+    flex-direction: column;
+  }
+  .btns .btn {
+    margin: 0 5px;
+  }
+}

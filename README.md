@@ -24,6 +24,8 @@ My intention is to further improve my skills in **JavaScript** and **PHP**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-06: Collapsible Info](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-006-collapsible/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-006-collapsible)**
+
 - **[#Day-05: Image Slider](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-005-image-slider/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-005-image-slider)**
 
 - **[#Day-04: Pomodoro Timer](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-004-pomodoro-timer/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-004-pomodoro-timer)**

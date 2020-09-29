@@ -24,13 +24,12 @@ h2 {
   align-items: center;
   width: 60%;
   margin-bottom: 40px;
-  box-sizing: border-box;
 }
 
 .img {
   height: 250px;
   width: 100%;
-  background-image: url("../img/loki1.png");
+  background-image: url("../img/Loki1.png");
   background-size: cover;
   background-position: center;
 }

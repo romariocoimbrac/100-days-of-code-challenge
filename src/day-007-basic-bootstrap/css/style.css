@@ -24,6 +24,7 @@ h2 {
   align-items: center;
   width: 60%;
   margin-bottom: 40px;
+  box-sizing: border-box;
 }
 
 .img {

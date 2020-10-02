@@ -24,6 +24,8 @@ My intention is to further improve my skills in **JavaScript** and **PHP**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-10: Drag and Drop](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-011-css-buttons-hover-animations/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-011-css-buttons-hover-animations)**
+
 - **[#Day-10: Drag and Drop](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-010-drag-n-drop/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-010-drag-n-drop)**
 
 - **[#Day-09: Temperature Converter](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-009-temperature-converter/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-009-temperature-converter)**

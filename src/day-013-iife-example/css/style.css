@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Fredoka One", cursive;
+  background-color: aliceblue;
+  color: #373737;
+
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.number {
+  margin: 50px 0 10px 0;
+  font-size: 200px;
+}
+
+.btn {
+  border: none;
+  font-size: 30px;
+  font-family: inherit;
+  color: inherit;
+  background-color: inherit;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn:active {
+  text-shadow: 1px 1px 1px;
+}

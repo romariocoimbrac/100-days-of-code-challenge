@@ -24,6 +24,8 @@ My intention is to further improve my skills in **JavaScript** and **PHP**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-16: Cipher](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-016-cipher/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-016-cipher)**
+
 - **[#Day-15: Keyboard Event and Audio event Examples](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-015-playing-a-sound/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-015-playing-a-sound)**
 
 - **[#Day-14: Keyboard Event Example](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-014-keyboard-event/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-014-keyboard-event)**

@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title {
+  font-size: 3em;
+  margin: 50px 0;
+}
+.msg {
+  font-size: 1.5em;
+}
+.inputs-text,
+.inputs-number {
+  border: none;
+  font-size: 1.3em;
+  border-bottom: 1px solid #000;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.inputs-number {
+  width: 50px;
+}
+#change-msg {
+  outline: none;
+  font-size: 1.3em;
+  background-color: #fff;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+.codded-msg {
+  font-size: 1.5em;
+  margin: 30px;
+  border-bottom: 1px solid #373737;
+}

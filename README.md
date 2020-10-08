@@ -16,7 +16,6 @@ In my case, I have not yet specified what I will do each day. The idea is to cre
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **PHP**
 
 My intention is to further improve my skills in **JavaScript** and **PHP**.
 

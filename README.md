@@ -17,11 +17,13 @@ In my case, I have not yet specified what I will do each day. The idea is to cre
 - **CSS**
 - **JavaScript**
 
-My intention is to further improve my skills in **JavaScript** and **PHP**.
+My intention is to further improve my skills in **JavaScript**.
 
 ## List of Projects Developed
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
+
+- **[#Day-17: Timer](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-017-timer/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-017-timer)**
 
 - **[#Day-16: Cipher](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-016-cipher/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-016-cipher)**
 

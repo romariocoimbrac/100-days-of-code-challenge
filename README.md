@@ -23,6 +23,8 @@ My intention is to further improve my skills in **JavaScript**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-18: Progress bar](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-018-progress-bar/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-018-progress-bar)**
+
 - **[#Day-17: Timer](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-017-timer/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-017-timer)**
 
 - **[#Day-16: Cipher](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-016-cipher/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-016-cipher)**

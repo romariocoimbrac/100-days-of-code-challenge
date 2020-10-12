@@ -23,6 +23,8 @@ My intention is to further improve my skills in **JavaScript**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-21: Heaviest Poke](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-021-heaviest-poke/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-021-heaviest-poke)**
+
 - **[#Day-20: Fetch API](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-020-fetch-api/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-020-fetch-api)**
 
 - **[#Day-19: Add HTML](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-019-add-html/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-019-add-html)**

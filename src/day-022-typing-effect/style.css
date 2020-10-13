@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f1f1f;
+}
+
+.text {
+  width: 90%;
+  color: white;
+  font-size: 3em;
+  line-height: 1.5em;
+  font-family: "Special Elite", cursive;
+  text-align: center;
+}
+
+.text:after {
+  content: "|";
+  margin-left: 5px;
+  opacity: 1;
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}

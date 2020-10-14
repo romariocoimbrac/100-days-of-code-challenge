@@ -23,6 +23,8 @@ My intention is to further improve my skills in **JavaScript**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-23: Bubbling Event](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-023-bubbling-event/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-023-bubbling-event)**
+
 - **[#Day-22: Typing Effect](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-022-typing-effect/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-022-typing-effect)**
 
 - **[#Day-21: Heaviest Poke](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-021-heaviest-poke/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-021-heaviest-poke)**

@@ -23,6 +23,8 @@ My intention is to further improve my skills in **JavaScript**.
 
 Below is a list of projects I am developing during the **#100DaysOfCode** Challenge
 
+- **[#Day-25: Guess a Number](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-025-guess-a-number/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-025-guess-a-number)**
+
 - **[#Day-24: Random Color](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-024-random-color/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-024-random-color)**
 
 - **[#Day-23: Bubbling Event](https://romariocoimbrac.github.io/100-days-of-code-challenge/src/day-023-bubbling-event/)** - **[Code](https://github.com/romariocoimbrac/100-days-of-code-challenge/tree/master/src/day-023-bubbling-event)**
